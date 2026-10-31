@@ -12,9 +12,27 @@ Every collection ships as **one zip** with all wallpapers in three resolutions:
 
 ## Download
 
-**[→ Latest collection](https://github.com/kappa-yashi/wallpapers/releases/latest)** (about 40 MB)
+**[→ Latest collection](https://github.com/kappa-yashi/wallpapers/releases/latest)** (about 70 MB)
 
 Older collections live on the [Releases](https://github.com/kappa-yashi/wallpapers/releases) page, one release per drop.
+
+## Collection 2026-11 · ink visions
+
+Five hand-inked illustrations, 16:9, each in 4K, 2K and HD.
+
+<table>
+  <tr>
+    <td colspan="2"><img src="previews/surreal.webp" alt="surreal: a giant eye over a checkerboard path, broken stairs and ruined arches"><br><sub><b>surreal</b> · the eye over the broken road</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="previews/ascii-art.webp" alt="ascii-art: an old CRT monitor showing an ASCII skull"><br><sub><b>ascii-art</b> · skull on a CRT</sub></td>
+    <td width="50%"><img src="previews/dark-figure.webp" alt="dark-figure: a hunched dark figure before a glowing rune doorway"><br><sub><b>dark-figure</b> · at the rune door</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="previews/liquid-silhouette.webp" alt="liquid-silhouette: a melting figure with a red cyber eye firing light beams"><br><sub><b>liquid-silhouette</b> · the cyber eye</sub></td>
+    <td width="50%"><img src="previews/red-pill.webp" alt="red-pill: a row of red capsules, one bursting with light"><br><sub><b>red-pill</b> · one of them burns</sub></td>
+  </tr>
+</table>
 
 ## Collection 2026-10 · brand walls
 
@@ -46,4 +64,4 @@ Five wallpapers, 16:9, each in 4K, 2K and HD.
 
 ---
 
-[kappayashi.page](https://www.kappayashi.page) · [lab page](https://www.kappayashi.page/lab/wallpapers/)
+[kappayashi.page](https://www.kappayashi.page) · [lab: 2026-11](https://www.kappayashi.page/lab/wallpapers-2026-11/) · [lab: 2026-10](https://www.kappayashi.page/lab/wallpapers/)
